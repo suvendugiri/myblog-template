@@ -1,0 +1,26 @@
+One Liner Tips
+======================================================
+--favicon	--done
+--post header	--done
+--post content	--done
+--footer	--done
+--facebook share --on hold
+--twitter share	--on hold
+--linked in share	--on hold
+--facebook like  --on hold
+--Email subscription
+--hosting	--done
+--publishing  --done
+--ftp	--done
+--date format - dot instead of comma	--done
+--Category wise filer not working for none except the first --done
+--side menu - authors  --done
+--side menu - categories	--done
+--new entry box - tags	
+--count of posts against each author --done
+--click on count next to authors should show all the posts by that author --done
+--on hover zoom the complete post --trial needed to confirm
+--convert user name to sentence case
+--Show only top 10 or 15 categories in the side panel sorted with count desc --done
+--add a new section for providing reference
+--
