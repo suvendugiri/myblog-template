@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<post>
+  <title>Default Access Modifiers in C#</title>
+  <slug>default-access-modifiers-in-c</slug>
+  <author>Suvendu</author>
+  <pubDate>2017-07-03 10:16:47</pubDate>
+  <lastModified>2017-07-04 09:10:16</lastModified>
+  <excerpt></excerpt>
+  <content>Default access modifier for everything in C# is "the most restricted access you could declare for that member"</content>
+  <ispublished>true</ispublished>
+  <categories>
+    <category>C#</category>
+  </categories>
+  <comments>
+    <comment isAdmin="false" isApproved="true" id="8e0a4534-d43d-44e8-af6c-89ad3d6e14d2">
+      <author>Swagat</author>
+      <email>sdpswagat@gmail.com</email>
+      <website></website>
+      <ip>::1</ip>
+      <userAgent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36</userAgent>
+      <date>2017-07-03 13:17:16</date>
+      <content>Great tips!</content>
+    </comment>
+  </comments>
+</post>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<post>
+  <title>FOR XML : Include columns with NULL values</title>
+  <slug>for-xml--include-columns-with-null-values</slug>
+  <author>suvendu</author>
+  <pubDate>2017-07-18 03:30:27</pubDate>
+  <lastModified>2017-07-19 06:42:35</lastModified>
+  <excerpt></excerpt>
+  <content>Use "FOR XML AUTO, &lt;b&gt;ELEMENTS XSINIL&lt;/b&gt;" to create nodes for columns with NULL values.</content>
+  <ispublished>true</ispublished>
+  <categories>
+    <category>FOR XML</category>
+    <category>XML</category>
+    <category>SQL Server</category>
+  </categories>
+  <comments></comments>
+</post>

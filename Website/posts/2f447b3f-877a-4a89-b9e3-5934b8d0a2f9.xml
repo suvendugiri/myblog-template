@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<post>
+  <title>C# Snippet for Static int Main method</title>
+  <slug>c-snippet-for-static-int-main-method</slug>
+  <author>Suvendu</author>
+  <pubDate>2017-07-19 01:38:24</pubDate>
+  <lastModified>2017-07-19 01:53:43</lastModified>
+  <excerpt></excerpt>
+  <content>To generate &lt;b&gt;Static int Main&lt;/b&gt; method with a string[] formal parameter, type &lt;b&gt;sim&lt;/b&gt; and press tab key twice.</content>
+  <ispublished>true</ispublished>
+  <categories>
+    <category>C#</category>
+    <category>Visual Studio</category>
+  </categories>
+  <comments></comments>
+</post>

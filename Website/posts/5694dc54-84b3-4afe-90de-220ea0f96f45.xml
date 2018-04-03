@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<post>
+  <title>PHP Superglobals</title>
+  <slug>php-superglobals</slug>
+  <author>Prava</author>
+  <pubDate>2017-07-19 11:35:33</pubDate>
+  <lastModified>2017-07-19 11:35:33</lastModified>
+  <excerpt></excerpt>
+  <content>Predefined variables in PHP are superglobals, such as $_SERVER, $_GET, $_POST, $_REQUEST, $_SESSION, $_COOKIE, $_FILES, $_ENV, $GLOBALS&lt;br /&gt;</content>
+  <ispublished>true</ispublished>
+  <categories>
+    <category>PHP</category>
+    <category> Global Variables</category>
+    <category> Superglobals</category>
+  </categories>
+  <comments></comments>
+</post>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<post>
+  <title>Faster solution load in Visual Studio 2017</title>
+  <slug>faster-solution-load-in-visual-studio-2017</slug>
+  <author>Suvendu</author>
+  <pubDate>2017-07-19 01:59:55</pubDate>
+  <lastModified>2017-07-19 01:59:55</lastModified>
+  <excerpt></excerpt>
+  <content>&lt;b&gt;Tool &amp;gt; Options &amp;gt; Projects and Solutions &amp;gt; General &amp;gt; Lightweight Solution Load&lt;/b&gt;</content>
+  <ispublished>true</ispublished>
+  <categories>
+    <category>Visual Studio</category>
+    <category> Visual Studio 2017</category>
+  </categories>
+  <comments></comments>
+</post>

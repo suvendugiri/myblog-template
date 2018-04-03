@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<post>
+  <title>ASP.Net MVC: Controller</title>
+  <slug>aspnet-mvc-controller</slug>
+  <author>Suvendu</author>
+  <pubDate>2017-07-03 12:52:13</pubDate>
+  <lastModified>2017-07-04 09:10:06</lastModified>
+  <excerpt></excerpt>
+  <content>Every public method in Controller is callable as an HTTP endpoint.</content>
+  <ispublished>true</ispublished>
+  <categories>
+    <category>ASP.Net MVC</category>
+    <category>C#</category>
+  </categories>
+  <comments></comments>
+</post>
